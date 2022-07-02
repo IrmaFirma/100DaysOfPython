@@ -15,3 +15,6 @@ bill = total * bill_percent
 per_person = round(bill / spliters, 2)
 
 print('Each person should pay {}'.format(per_person))
+
+
+#Visit: litcode.net
